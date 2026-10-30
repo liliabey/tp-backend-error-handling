@@ -1,0 +1,10 @@
+{
+  "errors": {
+    "VALIDATION_ERROR": "Les données envoyées sont invalides",
+    "RESOURCE_NOT_FOUND": "Ressource introuvable",
+    "UNAUTHORIZED": "Vous devez vous authentifier",
+    "FORBIDDEN": "Vous n'avez pas la permission d'effectuer cette action",
+    "DUplicatE_RESOURCE": "Cette ressource existe déjà",
+    "INTERNAL_SERVER_ERROR": "Une erreur interne est survenue"
+  }
+}

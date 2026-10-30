@@ -1,0 +1,10 @@
+{
+  "errors": {
+    "VALIDATION_ERROR": "البيانات المرسلة غير صالحة",
+    "RESOURCE_NOT_FOUND": "المورد غير موجود",
+    "UNAUTHORIZED": "يجب عليك المصادقة",
+    "FORBIDDEN": "ليس لديك صلاحية للقيام بهذا الإجراء",
+    "DUPLICATE_RESOURCE": "هذا المورد موجود بالفعل",
+    "INTERNAL_SERVER_ERROR": "حدث خطأ غيرคาดคิด في الخادم"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "errors": {
+    "VALIDATION_ERROR": "The submitted data is invalid",
+    "RESOURCE_NOT_FOUND": "Resource not found",
+    "UNAUTHORIZED": "You must authenticate",
+    "FORBIDDEN": "You do not have permission",
+    "DUPLICATE_RESOURCE": "This resource already exists",
+    "INTERNAL_SERVER_ERROR": "An unexpected server error occurred"
+  }
+}
